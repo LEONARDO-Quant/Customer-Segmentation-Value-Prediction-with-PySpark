@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/banner" alt="Bannière du projet" width="1000" height="250"/>
+</p> 
+
 # 🧠 Customer Segmentation & Value Prediction with PySpark
 
 ## 📌 Overview
